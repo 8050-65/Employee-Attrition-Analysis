@@ -1,3 +1,4 @@
+### Dataset:
 # Employee-Attrition-Analysis-and-Prediction-Using-Supervised-ML
 This project aims to provide insights into the factors influencing employee attrition and predict which employees are likely to leave the company. Let's refine the project to make it more closely aligned with real-time scenarios and address live problem statements within an organization.
 
@@ -48,4 +49,23 @@ Acme Corporation has provided historical data on employee demographics, job sati
    - Regular updates to the machine learning model based on real-time data allow for continuous improvement in prediction accuracy.
    - Feedback loops from HR teams can be integrated into the model to enhance its effectiveness over time.
 
-By addressing the live problem statement of employee turnover at Acme Corporation, this project integrates BI tools and machine learning to provide actionable insights and empower the organization to proactively manage its workforce. The real-time nature of the analysis ensures that decision-makers have up-to-date information for effective interventions.
+By addressing the live problem statement of employee turnover at Acme Corporation, this project integrates BI tools and machine learning to provide actionable insights and empower the organization to proactively manage its workforce. The real-time nature of the analysis ensures that decision-makers have up-to-date information for effective interventions with efficiency.
+
+
+vim READMR.md
+
+:wq   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
